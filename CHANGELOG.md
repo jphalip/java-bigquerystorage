@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.8.0](https://www.github.com/googleapis/java-bigquerystorage/compare/v2.7.0...v2.8.0) (2021-12-22)
+
+
+### Features
+
+* Add reconnect support to v1 client lib. ([#1446](https://www.github.com/googleapis/java-bigquerystorage/issues/1446)) ([a5157fa](https://www.github.com/googleapis/java-bigquerystorage/commit/a5157faf37354ee48a0af930a68edf4823b5be6f))
+
+
+### Bug Fixes
+
+* finish BIGNUMERIC support ([#1449](https://www.github.com/googleapis/java-bigquerystorage/issues/1449)) ([d9d51cd](https://www.github.com/googleapis/java-bigquerystorage/commit/d9d51cd203733a972c80e312e9e279b50fb260fa))
+
 ## [2.7.0](https://www.github.com/googleapis/java-bigquerystorage/compare/v2.6.5...v2.7.0) (2021-12-07)
 
 
